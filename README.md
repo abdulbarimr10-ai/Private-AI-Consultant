@@ -28,4 +28,13 @@ A production-grade conversational RAG system built with:
 
 ```bash
 pip install -r requirements.txt
+
 streamlit run app.py
+
+## 📸 Demo
+
+### 🖥️ User Interface
+![UI Screenshot](assets/screenshot-ui.png)
+
+### 🧠 Conversational Memory
+![Memory Screenshot](assets/conversation-memory.png)

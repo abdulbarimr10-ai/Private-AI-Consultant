@@ -31,11 +31,12 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-## 📸 Demo
+## DEMO
 
 ### 🖥️ User Interface
-(assets/screenshot-ui.png)
+![User Interface](assets/screenshot-ui.png)
 
 ### 🧠 Conversational Memory
-(assets/conversation-memory.png)
+![Conversational Memory](assets/conversation-memory.png)
+
 

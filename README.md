@@ -34,7 +34,8 @@ streamlit run app.py
 ## 📸 Demo
 
 ### 🖥️ User Interface
-![UI Screenshot](assets/screenshot-ui.png)
+(assets/screenshot-ui.png)
 
 ### 🧠 Conversational Memory
-![Memory Screenshot](assets/conversation-memory.png)
+(assets/conversation-memory.png)
+
